@@ -1,0 +1,45 @@
+{
+	"list": [
+		{
+			"m_PriceList": [120],
+			"m_BuyingPriceList": [600],
+			"m_MaintenanceList": [25],
+			"m_MaxMentalityList": [125],
+			"m_MaxBirthCountList": [18],
+			"m_ConceptionRateList": [0.67],
+			"m_GrowthTimeList": [15],
+			"m_DecreasingMentalityOnPregnantList": [0.3],
+			"m_MultiplePregnancyCountList": [1],
+			"m_MilkProductionRateList": [1.5],
+			"m_SoulForResurrectionList": [60],
+			"m_TrainingSexList": [2],
+			"m_TrainingBirthList": [2],
+			"m_TrainingMilkList": [3],
+			"m_SkinColorStringChanceList": [1, 1, 1, 0.001, 0.001, 0.001],
+			"m_SkinColorStringList": ["#FFECE3", "#FADBC8", "#D8A293", "#FFFFFF", "#C58E89", "#7A4946"],
+			"m_SkinColorTypeList": [0, 1, 2, 3, 4, 5],
+			"m_HairColorStringList": ["RANDOM"],
+			"m_EyeColorStringList": ["RANDOM"],
+			"m_HairFrontTypeChanceList": [1, 1, 1, 1, 1],
+			"m_HairFrontTypeList": [1, 2, 3, 4, 5],
+			"m_HairSideTypeChanceList": [1, 1, 1, 1, 1],
+			"m_HairSideTypeList": [0, 1, 2, 3, 4],
+			"m_HairBackTypeChanceList": [1, 1, 1, 1, 1],
+			"m_HairBackTypeList": [1, 2, 3, 4, 5],
+			"m_HairBodyTypeChanceList": [1, 1],
+			"m_HairBodyTypeList": [0, 1],
+			"m_EyeTypeChanceList": [1, 1, 1],
+			"m_EyeTypeList": [1, 2, 4],
+			"m_EyeBallTypeChanceList": [0.2, 0.2, 0.8],
+			"m_EyeBallTypeList": [1, 2, 3],
+			"m_EarTypeList": [4],
+			"m_EarHairTypeList": [1],
+			"m_TailTypeList": [1],
+			"m_TitsTypeChanceList": [0.2, 0.4, 0.4],
+			"m_TitsTypeList": [1, 2, 3],
+			"m_PubicHairTypeChanceList": [1, 1, 1],
+			"m_PubicHairTypeList": [0, 1, 2]
+		}
+	]
+}
+

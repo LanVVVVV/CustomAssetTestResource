@@ -1,0 +1,36 @@
+{
+	"list": [
+		{
+			"m_PriceList": [110],
+			"m_BuyingPriceList": [0],
+			"m_MaintenanceList": [25],
+			"m_MaxMentalityList": [120],
+			"m_MaxBirthCountList": [15],
+			"m_ConceptionRateList": [0.65],
+			"m_GrowthTimeList": [30],
+			"m_DecreasingMentalityOnPregnantList": [0.3],
+			"m_MultiplePregnancyCountList": [1],
+			"m_MilkProductionRateList": [1.5],
+			"m_SoulForResurrectionList": [55],
+			"m_TrainingSexList": [2],
+			"m_TrainingBirthList": [2],
+			"m_TrainingMilkList": [3],
+			"m_SkinColorStringList": ["#FFFFFF"],
+			"m_SkinColorTypeList": [3],
+			"m_HairColorStringList": ["#7CA4ED"],
+			"m_EyeColorStringList": ["#EAD448"],
+			"m_HairFrontTypeList": [3],
+			"m_HairSideTypeList": [3],
+			"m_HairBackTypeList": [5],
+			"m_HairBodyTypeList": [0],
+			"m_EyeTypeList": [4],
+			"m_EyeBallTypeList": [3],
+			"m_EarTypeList": [4],
+			"m_EarHairTypeList": [2],
+			"m_TailTypeList": [2],
+			"m_TitsTypeList": [2],
+			"m_PubicHairTypeList": [3]
+		}
+	]
+}
+

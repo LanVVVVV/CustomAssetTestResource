@@ -1,0 +1,37 @@
+{
+	"list": [
+		{
+			"m_DataTypeChanceList": [0.975, 0, 0, 0.025, 0],
+			"m_DataTypeChanceList1": [0.875, 0.05, 0.05, 0.025, 0],
+			"m_DataTypeChanceList2": [0.825, 0.075, 0.075, 0.025, 0],
+			"m_DataTypeChanceList3": [0.775, 0.1, 0.1, 0.025, 0],
+			"m_DataTypeChanceList4": [0.725, 0.125, 0.125, 0.025, 0],
+			"m_DataTypeChanceList5": [0.65, 0.15, 0.15, 0.025, 0.025],
+			"m_DataTypeChanceList6": [0.65, 0.15, 0.15, 0.025, 0.025],
+			"m_DataTypeChanceList7": [0.6, 0.175, 0.175, 0, 0.05],
+			"m_DataTypeChanceList8": [0.6, 0.175, 0.175, 0, 0.05],
+			"m_DataTypeChanceList9": [0.55, 0.2, 0.2, 0, 0.05],
+			"m_DataTypeChanceList10": [0.5, 0.2, 0.2, 0, 0.1],
+			"m_DataTypeList": [0, 1, 2, 3, 4],
+			"m_ConceptionRateList": [0.65, 0.75, 0.75, 0.8, 0.85],
+			"m_PossibilityOfVenerealDiseaseList": [5, 10, 10, 100, 0],
+			"m_SexTimeList": [45, 30, 60, 75, 45],
+			"m_SkinColorStringList": ["#FFFFFF", "#FF0000", "#0000FF", "#FF00FF", "#FFD900"],
+			"m_HairColorStringList": ["RANDOM", "RANDOM", "RANDOM", "RANDOM", "RANDOM"],
+			"m_EyeColorStringList": ["RANDOM", "RANDOM", "RANDOM", "RANDOM", "RANDOM"],
+			"m_UpperBodyTypeChanceList": [0.35, 0.65],
+			"m_UpperBodyTypeList": [1, 2],
+			"m_PubicHairTypeChanceList": [0.6, 0.15, 0.25],
+			"m_PubicHairTypeList": [0, 1, 2],
+			"m_BallsTypeChanceList": [0.35, 0.65],
+			"m_BallsTypeList": [1, 2],
+			"m_PenisTypeChanceList": [0.65, 0.35],
+			"m_PenisTypeList": [1, 2],
+			"m_ReputationArray": [2, 3, 3, 1, 5],
+			"m_FeeRatio": [1, 1.3, 1.3, 0.3, 1.5],
+			"m_PreferenceReputationArray": [3, 4, 4, 1, 6],
+			"m_PreferenceFeeRatio": [1.2, 1.5, 1.5, 0.5, 1.7]
+		}
+	]
+}
+

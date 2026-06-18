@@ -1,0 +1,475 @@
+{
+	"list": [
+		{
+			"m_DataId": 1,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_slaveprice_1",
+			"m_Name": "#Event_1",
+			"m_Text": "#Event_1_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 2,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_slaveprice_2",
+			"m_Name": "#Event_2",
+			"m_Text": "#Event_2_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 3,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_amilia_1",
+			"m_Name": "#Event_3",
+			"m_Text": "#Event_3_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [20]
+		},
+		{
+			"m_DataId": 4,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_slaveprice_1",
+			"m_Name": "#Event_1",
+			"m_Text": "#Event_1_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 5,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_slaveprice_2",
+			"m_Name": "#Event_2",
+			"m_Text": "#Event_2_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 6,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_amilia_1",
+			"m_Name": "#Event_3",
+			"m_Text": "#Event_3_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [20]
+		},
+		{
+			"m_DataId": 7,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_slaveprice_1",
+			"m_Name": "#Event_1",
+			"m_Text": "#Event_1_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 8,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_slaveprice_2",
+			"m_Name": "#Event_2",
+			"m_Text": "#Event_2_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 9,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_amilia_1",
+			"m_Name": "#Event_3",
+			"m_Text": "#Event_3_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [20]
+		},
+		{
+			"m_DataId": 10,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_slaveprice_1",
+			"m_Name": "#Event_1",
+			"m_Text": "#Event_1_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 11,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_slaveprice_2",
+			"m_Name": "#Event_2",
+			"m_Text": "#Event_2_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 12,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_amilia_1",
+			"m_Name": "#Event_3",
+			"m_Text": "#Event_3_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [20]
+		},
+		{
+			"m_DataId": 16,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_slaveprice_1",
+			"m_Name": "#Event_1",
+			"m_Text": "#Event_1_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 17,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_slaveprice_2",
+			"m_Name": "#Event_2",
+			"m_Text": "#Event_2_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 18,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_amilia_1",
+			"m_Name": "#Event_3",
+			"m_Text": "#Event_3_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [20]
+		},
+		{
+			"m_DataId": 22,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_slaveprice_1",
+			"m_Name": "#Event_1",
+			"m_Text": "#Event_1_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 23,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_slaveprice_2",
+			"m_Name": "#Event_2",
+			"m_Text": "#Event_2_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 24,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_amilia_1",
+			"m_Name": "#Event_3",
+			"m_Text": "#Event_3_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [20]
+		},
+		{
+			"m_DataId": 25,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_monsterprice_1",
+			"m_Name": "#Event_1",
+			"m_Text": "#Event_1_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 26,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_monsterprice_2",
+			"m_Name": "#Event_2",
+			"m_Text": "#Event_2_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 27,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_amilia_1",
+			"m_Name": "#Event_3",
+			"m_Text": "#Event_3_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [20]
+		},
+		{
+			"m_DataId": 28,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_monsterprice_1",
+			"m_Name": "#Event_1",
+			"m_Text": "#Event_1_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 29,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_monsterprice_2",
+			"m_Name": "#Event_2",
+			"m_Text": "#Event_2_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 30,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_amilia_1",
+			"m_Name": "#Event_3",
+			"m_Text": "#Event_3_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [20]
+		},
+		{
+			"m_DataId": 31,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_monsterprice_1",
+			"m_Name": "#Event_1",
+			"m_Text": "#Event_1_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 32,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_monsterprice_2",
+			"m_Name": "#Event_2",
+			"m_Text": "#Event_2_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 33,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_amilia_1",
+			"m_Name": "#Event_3",
+			"m_Text": "#Event_3_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [20]
+		},
+		{
+			"m_DataId": 34,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_monsterprice_1",
+			"m_Name": "#Event_1",
+			"m_Text": "#Event_1_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 35,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_monsterprice_2",
+			"m_Name": "#Event_2",
+			"m_Text": "#Event_2_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 36,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_amilia_1",
+			"m_Name": "#Event_3",
+			"m_Text": "#Event_3_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [20]
+		},
+		{
+			"m_DataId": 37,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_amilia_2",
+			"m_Name": "#Event_37",
+			"m_Text": "#Event_37_Text",
+			"m_TimeList": [1.5],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [0]
+		},
+		{
+			"m_DataId": 38,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_prostitution_1",
+			"m_Name": "#Event_38",
+			"m_Text": "#Event_38_Text",
+			"m_TimeList": [0],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [0]
+		},
+		{
+			"m_DataId": 40,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_monsterprice_1",
+			"m_Name": "#Event_1",
+			"m_Text": "#Event_1_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 41,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_monsterprice_2",
+			"m_Name": "#Event_2",
+			"m_Text": "#Event_2_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 42,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_amilia_1",
+			"m_Name": "#Event_3",
+			"m_Text": "#Event_3_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [20]
+		},
+		{
+			"m_DataId": 43,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_prostitution_2",
+			"m_Name": "#Event_43",
+			"m_Text": "#Event_43_Text",
+			"m_TimeList": [0.5],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [0]
+		},
+		{
+			"m_DataId": 44,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_flora_1",
+			"m_Name": "#Event_44",
+			"m_Text": "#Event_44_Text",
+			"m_TimeList": [0],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [1]
+		},
+		{
+			"m_DataId": 45,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_flora_2",
+			"m_Name": "#Event_45",
+			"m_Text": "#Event_45_Text",
+			"m_TimeList": [1.5],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 46,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_niel_1",
+			"m_Name": "#Event_46",
+			"m_Text": "#Event_46_Text",
+			"m_TimeList": [0],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [1]
+		},
+		{
+			"m_DataId": 47,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_niel_2",
+			"m_Name": "#Event_47",
+			"m_Text": "#Event_47_Text",
+			"m_TimeList": [1.5],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 48,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_amilia_1",
+			"m_Name": "#Event_48",
+			"m_Text": "#Event_48_Text",
+			"m_TimeList": [0.5],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 49,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_senalena_1",
+			"m_Name": "#Event_49",
+			"m_Text": "#Event_49_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [10]
+		},
+		{
+			"m_DataId": 50,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_senalena_2",
+			"m_Name": "#Event_50",
+			"m_Text": "#Event_50_Text",
+			"m_TimeList": [1.5],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [15]
+		},
+		{
+			"m_DataId": 51,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_barbara_2",
+			"m_Name": "#Event_51",
+			"m_Text": "#Event_51_Text",
+			"m_TimeList": [0],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [5]
+		},
+		{
+			"m_DataId": 52,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_barbara_1",
+			"m_Name": "#Event_52",
+			"m_Text": "#Event_52_Text",
+			"m_TimeList": [1.5],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [50]
+		},
+		{
+			"m_DataId": 53,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_rune_2",
+			"m_Name": "#Event_53",
+			"m_Text": "#Event_53_Text",
+			"m_TimeList": [1],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [5]
+		},
+		{
+			"m_DataId": 54,
+			"m_SpriteAtlasName": "Event",
+			"m_SpriteName": "event_rune_3",
+			"m_Name": "#Event_54",
+			"m_Text": "#Event_54_Text",
+			"m_TimeList": [1, 3],
+			"m_Overlap": "FALSE",
+			"m_ValueList": [5]
+		}
+	]
+}
+

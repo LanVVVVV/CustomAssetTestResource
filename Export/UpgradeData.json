@@ -1,0 +1,428 @@
+{
+	"list": [
+		{
+			"m_DataId": 1,
+			"m_Tab": 0,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMarketSlotSlave1",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 2,
+			"m_Tab": 0,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMarketSlotSlave2",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 3,
+			"m_Tab": 0,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMarketElf",
+			"m_Cost": 4
+		},
+		{
+			"m_DataId": 4,
+			"m_Tab": 0,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMarketDwarf",
+			"m_Cost": 4
+		},
+		{
+			"m_DataId": 5,
+			"m_Tab": 0,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMarketFurry",
+			"m_Cost": 6
+		},
+		{
+			"m_DataId": 6,
+			"m_Tab": 0,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMarketSmallFurry",
+			"m_Cost": 6
+		},
+		{
+			"m_DataId": 7,
+			"m_Tab": 0,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMarketDragonian",
+			"m_Cost": 8
+		},
+		{
+			"m_DataId": 8,
+			"m_Tab": 0,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMarketSlotMonster1",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 9,
+			"m_Tab": 0,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMarketSlotMonster2",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 10,
+			"m_Tab": 0,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMarketOrc",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 11,
+			"m_Tab": 0,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMarketWerewolf",
+			"m_Cost": 6
+		},
+		{
+			"m_DataId": 12,
+			"m_Tab": 1,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMaxFood1",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 13,
+			"m_Tab": 1,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMaxFood2",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 14,
+			"m_Tab": 1,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMaxFood3",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 15,
+			"m_Tab": 1,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMaxMana1",
+			"m_Cost": 4
+		},
+		{
+			"m_DataId": 16,
+			"m_Tab": 1,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMaxMana2",
+			"m_Cost": 4
+		},
+		{
+			"m_DataId": 17,
+			"m_Tab": 1,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeMaxMana3",
+			"m_Cost": 4
+		},
+		{
+			"m_DataId": 26,
+			"m_Tab": 1,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeAmilia1",
+			"m_Cost": 5
+		},
+		{
+			"m_DataId": 27,
+			"m_Tab": 1,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeAmilia2",
+			"m_Cost": 5
+		},
+		{
+			"m_DataId": 28,
+			"m_Tab": 1,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeAmilia3",
+			"m_Cost": 5
+		},
+		{
+			"m_DataId": 29,
+			"m_Tab": 2,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeReducedSlaveMakingTime1",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 30,
+			"m_Tab": 2,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeReducedSlaveMakingTime2",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 31,
+			"m_Tab": 2,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeReducedMonsterMakingTime1",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 32,
+			"m_Tab": 2,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeReducedMonsterMakingTime2",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 33,
+			"m_Tab": 2,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeReducedBigMonsterMakingTime1",
+			"m_Cost": 4
+		},
+		{
+			"m_DataId": 34,
+			"m_Tab": 2,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeReducedBigMonsterMakingTime2",
+			"m_Cost": 4
+		},
+		{
+			"m_DataId": 35,
+			"m_Tab": 2,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeReducedBigMonsterMakingTime3",
+			"m_Cost": 4
+		},
+		{
+			"m_DataId": 36,
+			"m_Tab": 2,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeSpecialItemsCanBeCrafted",
+			"m_Cost": 5
+		},
+		{
+			"m_DataId": 37,
+			"m_Tab": 3,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeIncreaseCountOfItem1",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 38,
+			"m_Tab": 3,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeIncreaseCountOfItem2",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 39,
+			"m_Tab": 3,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeIncreaseCountOfItem3",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 40,
+			"m_Tab": 3,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeDecreasePriceOfItem1",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 41,
+			"m_Tab": 3,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeDecreasePriceOfItem2",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 42,
+			"m_Tab": 3,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeDecreasePriceOfItem3",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 43,
+			"m_Tab": 3,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeIncreaseCountOfPill1",
+			"m_Cost": 4
+		},
+		{
+			"m_DataId": 44,
+			"m_Tab": 3,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeIncreaseCountOfPill2",
+			"m_Cost": 4
+		},
+		{
+			"m_DataId": 45,
+			"m_Tab": 3,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeDecreasePriceOfPill1",
+			"m_Cost": 5
+		},
+		{
+			"m_DataId": 46,
+			"m_Tab": 3,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeDecreasePriceOfPill2",
+			"m_Cost": 5
+		},
+		{
+			"m_DataId": 47,
+			"m_Tab": 3,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeDecreasePriceOfPill3",
+			"m_Cost": 5
+		},
+		{
+			"m_DataId": 49,
+			"m_Tab": 4,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeBarbara1",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 50,
+			"m_Tab": 4,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeBarbara2",
+			"m_Cost": 3
+		},
+		{
+			"m_DataId": 51,
+			"m_Tab": 4,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeBarbara3",
+			"m_Cost": 4
+		},
+		{
+			"m_DataId": 52,
+			"m_Tab": 4,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeBarbara4",
+			"m_Cost": 4
+		},
+		{
+			"m_DataId": 53,
+			"m_Tab": 4,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeBarbara5",
+			"m_Cost": 5
+		},
+		{
+			"m_DataId": 54,
+			"m_Tab": 4,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeBarbara6",
+			"m_Cost": 5
+		},
+		{
+			"m_DataId": 55,
+			"m_Tab": 4,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeBarbara7",
+			"m_Cost": 5
+		},
+		{
+			"m_DataId": 57,
+			"m_Tab": 3,
+			"m_RequiredDataIdList": [],
+			"m_SpriteAtlasName": "MarketRate",
+			"m_SpriteName": "box_marketrate_empty",
+			"m_Text": "#UpgradeSterilizationSystem",
+			"m_Cost": 6
+		}
+	]
+}
+

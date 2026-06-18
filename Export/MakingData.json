@@ -1,0 +1,85 @@
+{
+	"list": [
+		{
+			"m_DataId": 55,
+			"m_Tab": 0,
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_injection_tattoo_128",
+			"m_ByProductDataIdArray": [10, 19, 17],
+			"m_ByProductCountArray": [1, 1, 1]
+		},
+		{
+			"m_DataId": 56,
+			"m_Tab": 0,
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_injection_mental_128",
+			"m_ByProductDataIdArray": [10, 21],
+			"m_ByProductCountArray": [1, 1]
+		},
+		{
+			"m_DataId": 59,
+			"m_Tab": 0,
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_injection_mammary_128",
+			"m_ByProductDataIdArray": [10, 22],
+			"m_ByProductCountArray": [1, 1]
+		},
+		{
+			"m_DataId": 60,
+			"m_Tab": 0,
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_injection_venereal_128",
+			"m_ByProductDataIdArray": [10, 11, 25],
+			"m_ByProductCountArray": [1, 1, 1]
+		},
+		{
+			"m_DataId": 61,
+			"m_Tab": 0,
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_injection_venereal_128",
+			"m_ByProductDataIdArray": [10, 23, 24],
+			"m_ByProductCountArray": [1, 1, 1]
+		},
+		{
+			"m_DataId": 126,
+			"m_Tab": 0,
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_brothel_energypill_128px",
+			"m_ByProductDataIdArray": [10, 17, 24],
+			"m_ByProductCountArray": [1, 1, 1]
+		},
+		{
+			"m_DataId": 127,
+			"m_Tab": 0,
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_aphrodisiac_woman_advanced_128",
+			"m_ByProductDataIdArray": [10, 45, 17],
+			"m_ByProductCountArray": [1, 1, 1]
+		},
+		{
+			"m_DataId": 128,
+			"m_Tab": 0,
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_mixture_monsterexcitement_128px",
+			"m_ByProductDataIdArray": [10, 45, 48],
+			"m_ByProductCountArray": [1, 1, 1]
+		},
+		{
+			"m_DataId": 129,
+			"m_Tab": 0,
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_mixture_pregnantpill_128px",
+			"m_ByProductDataIdArray": [10, 26, 131],
+			"m_ByProductCountArray": [1, 1, 1]
+		},
+		{
+			"m_DataId": 130,
+			"m_Tab": 0,
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_mixture_washtool_128px",
+			"m_ByProductDataIdArray": [10, 50, 106],
+			"m_ByProductCountArray": [1, 1, 1]
+		}
+	]
+}
+

@@ -1,0 +1,113 @@
+{
+	"list": [
+		{
+			"m_DataId": 96,
+			"//": "고급 깃팻 세트",
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_pen_set_128",
+			"m_Information": "#Item0500100Text",
+			"m_ByProduct1": 50,
+			"m_ByProduct2": 45,
+			"m_ByProduct3": 19,
+			"m_ByProduct4": 0,
+			"m_ByProduct5": 0
+		},
+		{
+			"m_DataId": 97,
+			"//": "포션",
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_potion_normal_128",
+			"m_Information": "#Item0500200Text",
+			"m_ByProduct1": 48,
+			"m_ByProduct2": 48,
+			"m_ByProduct3": 0,
+			"m_ByProduct4": 0,
+			"m_ByProduct5": 0
+		},
+		{
+			"m_DataId": 98,
+			"//": "하이 포션",
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_potion_high_128",
+			"m_Information": "#Item0500300Text",
+			"m_ByProduct1": 48,
+			"m_ByProduct2": 48,
+			"m_ByProduct3": 48,
+			"m_ByProduct4": 0,
+			"m_ByProduct5": 0
+		},
+		{
+			"m_DataId": 99,
+			"//": "고급 포션",
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_potion_advanced_128",
+			"m_Information": "#Item0500400Text",
+			"m_ByProduct1": 48,
+			"m_ByProduct2": 48,
+			"m_ByProduct3": 48,
+			"m_ByProduct4": 48,
+			"m_ByProduct5": 0
+		},
+		{
+			"m_DataId": 100,
+			"//": "최고급 포션",
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_potion_topquality_128",
+			"m_Information": "#Item0500500Text",
+			"m_ByProduct1": 48,
+			"m_ByProduct2": 48,
+			"m_ByProduct3": 48,
+			"m_ByProduct4": 48,
+			"m_ByProduct5": 48
+		},
+		{
+			"m_DataId": 101,
+			"//": "고급 정력제",
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_aphrodisiac_man_advanced_128",
+			"m_Information": "#Item0500600Text",
+			"m_ByProduct1": 48,
+			"m_ByProduct2": 45,
+			"m_ByProduct3": 35,
+			"m_ByProduct4": 37,
+			"m_ByProduct5": 0
+		},
+		{
+			"m_DataId": 102,
+			"//": "최고급 정력제",
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_aphrodisiac_man_topquality_128",
+			"m_Information": "#Item0500700Text",
+			"m_ByProduct1": 48,
+			"m_ByProduct2": 45,
+			"m_ByProduct3": 45,
+			"m_ByProduct4": 35,
+			"m_ByProduct5": 37
+		},
+		{
+			"m_DataId": 103,
+			"//": "고급 발정제",
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_aphrodisiac_woman_advanced_128",
+			"m_Information": "#Item0500800Text",
+			"m_ByProduct1": 21,
+			"m_ByProduct2": 17,
+			"m_ByProduct3": 22,
+			"m_ByProduct4": 23,
+			"m_ByProduct5": 0
+		},
+		{
+			"m_DataId": 104,
+			"//": "최고급 발정제",
+			"m_AtlasName": "Object",
+			"m_SpriteName": "item_aphrodisiac_woman_topquality_128",
+			"m_Information": "#Item0500900Text",
+			"m_ByProduct1": 21,
+			"m_ByProduct2": 17,
+			"m_ByProduct3": 17,
+			"m_ByProduct4": 22,
+			"m_ByProduct5": 23
+		}
+	]
+}
+

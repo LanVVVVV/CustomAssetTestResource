@@ -1,0 +1,26 @@
+{
+	"list": [
+		{
+			"m_PriceList": [1500],
+			"m_BuyingPriceList": [0],
+			"m_MaintenanceList": [150],
+			"m_ConceptionRateList": [0.35],
+			"m_GrowthTimeList": [75],
+			"m_DecreasingMentalityOnSexList": [0.75],
+			"m_DecreasingCleanlinessOnSexList": [0.2],
+			"m_SexTimeList": [70],
+			"m_SkinColorStringList": ["RANDOM"],
+			"m_HairColorStringList": ["RANDOM"],
+			"m_EyeColorStringList": ["RANDOM"],
+			"m_UpperBodyTypeChanceList": [0.35, 0.65],
+			"m_UpperBodyTypeList": [1, 2],
+			"m_BallsTypeChanceList": [0.35, 0.65],
+			"m_BallsTypeList": [1, 2],
+			"m_PenisTypeChanceList": [0.65, 0.35],
+			"m_PenisTypeList": [1, 2],
+			"m_HairBodyTypeChanceList": [1, 1],
+			"m_HairBodyTypeList": [1, 2]
+		}
+	]
+}
+

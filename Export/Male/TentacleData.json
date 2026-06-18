@@ -1,0 +1,18 @@
+{
+	"list": [
+		{
+			"m_PriceList": [5000],
+			"m_BuyingPriceList": [0],
+			"m_MaintenanceList": [0],
+			"m_ConceptionRateList": [0.6],
+			"m_GrowthTimeList": [75],
+			"m_DecreasingMentalityOnSexList": [0.6],
+			"m_DecreasingCleanlinessOnSexList": [0.2],
+			"m_SexTimeList": [60],
+			"m_SkinColorStringList": ["#7567C2"],
+			"m_HairColorStringList": ["#7567C2"],
+			"m_EyeColorStringList": ["#7567C2"]
+		}
+	]
+}
+
