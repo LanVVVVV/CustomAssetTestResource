@@ -1,0 +1,555 @@
+{
+	"list": [
+		{
+			"m_DataId": 7,
+			"m_Tab": 0,
+			"//": "성병 걸린 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_milk_beast_128",
+			"m_Text": "#A000007Text",
+			"m_CountArray": [1, 5, 10, 20],
+			"m_PointArray": [1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 8,
+			"m_Tab": 0,
+			"//": "성병 치료 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_milk_beast_128",
+			"m_Text": "#A000008Text",
+			"m_CountArray": [1, 5, 10, 20],
+			"m_PointArray": [1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 1,
+			"m_Tab": 1,
+			"//": "출산 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_milk_128",
+			"m_Text": "#A000001Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 2,
+			"m_Tab": 1,
+			"//": "임신 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_injection_tattoo_128",
+			"m_Text": "#A000002Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 5,
+			"m_Tab": 1,
+			"//": "노예 개수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_milk_elf_128",
+			"m_Text": "#A000005Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 9,
+			"m_Tab": 1,
+			"//": "사망 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_milk_dragon_128",
+			"m_Text": "#A000009Text",
+			"m_CountArray": [1, 5, 10, 20],
+			"m_PointArray": [1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 10,
+			"m_Tab": 1,
+			"//": "착유 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_bodyfluids_128",
+			"m_Text": "#A000010Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 11,
+			"m_Tab": 1,
+			"//": "성장 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_dna_venereal_128",
+			"m_Text": "#A000011Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 12,
+			"m_Tab": 1,
+			"//": "샤워 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_dna_tits_1_128",
+			"m_Text": "#A000012Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 52,
+			"m_Tab": 1,
+			"//": "최초로 조교 단계",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_pill_tits_1_128",
+			"m_Text": "#A000052Text",
+			"m_CountArray": [1, 2, 3, 4, 5],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 53,
+			"m_Tab": 1,
+			"//": "조교 1단계 달성 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_pill_tits_1_128",
+			"m_Text": "#A000053Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 54,
+			"m_Tab": 1,
+			"//": "조교 2단계 달성 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_pill_tits_1_128",
+			"m_Text": "#A000054Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 55,
+			"m_Tab": 1,
+			"//": "조교 3단계 달성 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_pill_tits_1_128",
+			"m_Text": "#A000055Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 56,
+			"m_Tab": 1,
+			"//": "조교 4단계 달성 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_pill_tits_1_128",
+			"m_Text": "#A000056Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 57,
+			"m_Tab": 1,
+			"//": "조교 5단계 달성 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_pill_tits_1_128",
+			"m_Text": "#A000057Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 3,
+			"m_Tab": 2,
+			"//": "질내사정 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_milk_128",
+			"m_Text": "#A000003Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 4,
+			"m_Tab": 2,
+			"//": "질외사정 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_milk_human_128",
+			"m_Text": "#A000004Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 6,
+			"m_Tab": 2,
+			"//": "몬스터 개수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_milk_dwarf_128",
+			"m_Text": "#A000006Text",
+			"m_CountArray": [5, 10, 25, 50, 100],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 58,
+			"m_Tab": 2,
+			"//": "몬스터 성장 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_milk_dwarf_128",
+			"m_Text": "#A000058Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 50,
+			"m_Tab": 3,
+			"//": "플레이 시간",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_werewolf_tail_128",
+			"m_Text": "#A000050Text",
+			"m_CountArray": [30, 60, 120, 180, 240, 300],
+			"m_PointArray": [1, 1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 47,
+			"m_Tab": 3,
+			"//": "현재 골드",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_orc_teeth_128",
+			"m_Text": "#A000047Text",
+			"m_CountArray": [2500, 5000, 7500],
+			"m_PointArray": [1, 1, 1]
+		},
+		{
+			"m_DataId": 48,
+			"m_Tab": 3,
+			"//": "현재 골드",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_orc_heart_128",
+			"m_Text": "#A000048Text",
+			"m_CountArray": [1],
+			"m_PointArray": [1]
+		},
+		{
+			"m_DataId": 49,
+			"m_Tab": 3,
+			"//": "일일 골드 소모량",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_werewolf_bodyhair_128",
+			"m_Text": "#A000049Text",
+			"m_CountArray": [500, 1000, 1500, 2000, 3000, 4000, 5000],
+			"m_PointArray": [1, 1, 1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 13,
+			"m_Tab": 4,
+			"//": "시설 건설 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_dna_tits_2_128",
+			"m_Text": "#A000013Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 14,
+			"m_Tab": 4,
+			"//": "시설 철거 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_dna_tits_3_128",
+			"m_Text": "#A000014Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 22,
+			"m_Tab": 4,
+			"//": "글로리 홀 이용 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_dna_inumammary_128",
+			"m_Text": "#A000022Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 23,
+			"m_Tab": 4,
+			"//": "대딸방 이용 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_dna_nekoovarian_128",
+			"m_Text": "#A000023Text",
+			"m_CountArray": [1, 5, 10, 20],
+			"m_PointArray": [1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 24,
+			"m_Tab": 4,
+			"//": "수간쇼 이용 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_dna_rabbitwomb_128",
+			"m_Text": "#A000024Text",
+			"m_CountArray": [1, 5, 10, 20],
+			"m_PointArray": [1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 25,
+			"m_Tab": 4,
+			"//": "출간쇼 이용 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_horn_sheep_128",
+			"m_Text": "#A000025Text",
+			"m_CountArray": [1, 5, 10, 20],
+			"m_PointArray": [1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 59,
+			"m_Tab": 4,
+			"//": "VIP룸 이용 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_horn_sheep_128",
+			"m_Text": "#A000059Text",
+			"m_CountArray": [1, 5, 10, 20],
+			"m_PointArray": [1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 60,
+			"m_Tab": 4,
+			"//": "VVIP룸 이용 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_horn_sheep_128",
+			"m_Text": "#A000060Text",
+			"m_CountArray": [1, 5, 10, 20],
+			"m_PointArray": [1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 66,
+			"m_Tab": 5,
+			"//": "해체소 개방",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000066Text",
+			"m_CountArray": [1],
+			"m_PointArray": [1]
+		},
+		{
+			"m_DataId": 26,
+			"m_Tab": 5,
+			"//": "해체한 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_dragon_tail_128",
+			"m_Text": "#A000026Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 27,
+			"m_Tab": 5,
+			"//": "부산물 획득 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000027Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 61,
+			"m_Tab": 5,
+			"//": "정령 생성 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000061Text",
+			"m_CountArray": [1, 5, 10, 20],
+			"m_PointArray": [1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 67,
+			"m_Tab": 6,
+			"//": "연구소 개방",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000067Text",
+			"m_CountArray": [1],
+			"m_PointArray": [1]
+		},
+		{
+			"m_DataId": 28,
+			"m_Tab": 6,
+			"//": "합성 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_muscular_128",
+			"m_Text": "#A000028Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 30,
+			"m_Tab": 6,
+			"//": "아이템 사용 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_hair_arm_128",
+			"m_Text": "#A000030Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 62,
+			"m_Tab": 6,
+			"//": "제작 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000062Text",
+			"m_CountArray": [1, 5, 10, 20],
+			"m_PointArray": [1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 68,
+			"m_Tab": 7,
+			"//": "안내소 개방",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000068Text",
+			"m_CountArray": [1],
+			"m_PointArray": [1]
+		},
+		{
+			"m_DataId": 63,
+			"m_Tab": 7,
+			"//": "손님 안내 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000063Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 64,
+			"m_Tab": 7,
+			"//": "아이템(콘돔, 러브젤) 판매 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000064Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 65,
+			"m_Tab": 7,
+			"//": "랜덤 아이템 구매 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000065Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 40,
+			"m_Tab": 8,
+			"//": "구매 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_nose_small",
+			"m_Text": "#A000040Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 41,
+			"m_Tab": 8,
+			"//": "판매 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_nose_long",
+			"m_Text": "#A000041Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 42,
+			"m_Tab": 8,
+			"//": "아이템 판매 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_nose_big",
+			"m_Text": "#A000042Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 69,
+			"m_Tab": 5,
+			"//": "플로라 호감도",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000069Text",
+			"m_CountArray": [12],
+			"m_PointArray": [1]
+		},
+		{
+			"m_DataId": 70,
+			"m_Tab": 6,
+			"//": "니엘 호감도",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000070Text",
+			"m_CountArray": [13],
+			"m_PointArray": [1]
+		},
+		{
+			"m_DataId": 71,
+			"m_Tab": 7,
+			"//": "세나, 리나 호감도",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000071Text",
+			"m_CountArray": [11],
+			"m_PointArray": [1]
+		},
+		{
+			"m_DataId": 72,
+			"m_Tab": 8,
+			"//": "아밀리아 호감도",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000072Text",
+			"m_CountArray": [12],
+			"m_PointArray": [1]
+		},
+		{
+			"m_DataId": 73,
+			"m_Tab": 9,
+			"//": "바르바라 개방",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000073Text",
+			"m_CountArray": [1],
+			"m_PointArray": [1]
+		},
+		{
+			"m_DataId": 74,
+			"m_Tab": 9,
+			"//": "강화 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000074Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 75,
+			"m_Tab": 9,
+			"//": "재강화 횟수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000075Text",
+			"m_CountArray": [1, 10, 20, 30, 50],
+			"m_PointArray": [1, 1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 76,
+			"m_Tab": 9,
+			"//": "타락도 캡슐 제작 획수",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000076Text",
+			"m_CountArray": [1, 5, 10, 20],
+			"m_PointArray": [1, 1, 1, 1]
+		},
+		{
+			"m_DataId": 77,
+			"m_Tab": 9,
+			"//": "바르바라 호감도",
+			"m_SpriteAtlasName": "Object",
+			"m_SpriteName": "item_tissue_adipose_128",
+			"m_Text": "#A000077Text",
+			"m_CountArray": [11],
+			"m_PointArray": [1]
+		}
+	]
+}
+

@@ -1,0 +1,418 @@
+{
+	"list": [
+		{
+			"m_DataId": 1,
+			"//": "인간 노예 구매",
+			"m_Tab": 0,
+			"m_Text": "#L001Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 2,
+			"//": "엘프 노예 구매",
+			"m_Tab": 0,
+			"m_Text": "#L002Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 3,
+			"//": "드워프 노예 구매",
+			"m_Tab": 0,
+			"m_Text": "#L003Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 4,
+			"//": "수인 노예 구매",
+			"m_Tab": 0,
+			"m_Text": "#L004Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 5,
+			"//": "작은 수인 노예 구매",
+			"m_Tab": 0,
+			"m_Text": "#L005Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 6,
+			"//": "용인 노예 구매",
+			"m_Tab": 0,
+			"m_Text": "#L006Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 7,
+			"//": "고블린 몬스터 판매",
+			"m_Tab": 0,
+			"m_Text": "#L007Text",
+			"m_MaxCount": 10
+		},
+		{
+			"m_DataId": 8,
+			"//": "오크 몬스터 판매",
+			"m_Tab": 0,
+			"m_Text": "#L008Text",
+			"m_MaxCount": 10
+		},
+		{
+			"m_DataId": 9,
+			"//": "웨어울프 몬스터 판매",
+			"m_Tab": 0,
+			"m_Text": "#L009Text",
+			"m_MaxCount": 10
+		},
+		{
+			"m_DataId": 10,
+			"//": "미노타우르스 몬스터 판매",
+			"m_Tab": 0,
+			"m_Text": "#L010Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 11,
+			"//": "샐러맨더 몬스터 판매",
+			"m_Tab": 0,
+			"m_Text": "#L011Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 12,
+			"//": "시세 조작",
+			"m_Tab": 0,
+			"m_Text": "#L012Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 101,
+			"//": "인간 노예 해체",
+			"m_Tab": 1,
+			"m_Text": "#L101Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 102,
+			"//": "엘프 토예 해체",
+			"m_Tab": 1,
+			"m_Text": "#L102Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 103,
+			"//": "드워프 노예 해체",
+			"m_Tab": 1,
+			"m_Text": "#L103Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 104,
+			"//": "수인 노예 해체",
+			"m_Tab": 1,
+			"m_Text": "#L104Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 105,
+			"//": "작은 수인 노예 해체",
+			"m_Tab": 1,
+			"m_Text": "#L105Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 106,
+			"//": "용인 노예 해체",
+			"m_Tab": 1,
+			"m_Text": "#L106Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 107,
+			"//": "고블린 몬스터 해체",
+			"m_Tab": 1,
+			"m_Text": "#L107Text",
+			"m_MaxCount": 10
+		},
+		{
+			"m_DataId": 108,
+			"//": "오크 몬스터 해체",
+			"m_Tab": 1,
+			"m_Text": "#L108Text",
+			"m_MaxCount": 10
+		},
+		{
+			"m_DataId": 109,
+			"//": "웨어울프 몬스터 해체",
+			"m_Tab": 1,
+			"m_Text": "#L109Text",
+			"m_MaxCount": 10
+		},
+		{
+			"m_DataId": 110,
+			"//": "미노타우르스 몬스터 해체",
+			"m_Tab": 1,
+			"m_Text": "#L110Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 111,
+			"//": "샐러맨더 몬스터 해체",
+			"m_Tab": 1,
+			"m_Text": "#L111Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 112,
+			"//": "요정 생성",
+			"m_Tab": 1,
+			"m_Text": "#L112Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 201,
+			"//": "음문 제거제 제작",
+			"m_Tab": 2,
+			"m_Text": "#L201Text",
+			"m_MaxCount": 3
+		},
+		{
+			"m_DataId": 202,
+			"//": "멘탈 회복제 제작",
+			"m_Tab": 2,
+			"m_Text": "#L202Text",
+			"m_MaxCount": 3
+		},
+		{
+			"m_DataId": 203,
+			"//": "젖샘 회복제 제작",
+			"m_Tab": 2,
+			"m_Text": "#L203Text",
+			"m_MaxCount": 3
+		},
+		{
+			"m_DataId": 204,
+			"//": "성병 치료제 제작",
+			"m_Tab": 2,
+			"m_Text": "#L204Text",
+			"m_MaxCount": 3
+		},
+		{
+			"m_DataId": 205,
+			"//": "난자 회복제 제작",
+			"m_Tab": 2,
+			"m_Text": "#L205Text",
+			"m_MaxCount": 3
+		},
+		{
+			"m_DataId": 206,
+			"//": "배란 촉진제 제작",
+			"m_Tab": 2,
+			"m_Text": "#L206Text",
+			"m_MaxCount": 3
+		},
+		{
+			"m_DataId": 207,
+			"//": "최음제 제작",
+			"m_Tab": 2,
+			"m_Text": "#L207Text",
+			"m_MaxCount": 3
+		},
+		{
+			"m_DataId": 208,
+			"//": "비O그라 제작",
+			"m_Tab": 2,
+			"m_Text": "#L208Text",
+			"m_MaxCount": 3
+		},
+		{
+			"m_DataId": 209,
+			"//": "감도 3000배 제작",
+			"m_Tab": 2,
+			"m_Text": "#L209Text",
+			"m_MaxCount": 3
+		},
+		{
+			"m_DataId": 210,
+			"//": "워셔 제작",
+			"m_Tab": 2,
+			"m_Text": "#L210Text",
+			"m_MaxCount": 3
+		},
+		{
+			"m_DataId": 211,
+			"//": "노예 제작",
+			"m_Tab": 2,
+			"m_Text": "#L211Text",
+			"m_MaxCount": 3
+		},
+		{
+			"m_DataId": 212,
+			"//": "몬스터 제작",
+			"m_Tab": 2,
+			"m_Text": "#L212Text",
+			"m_MaxCount": 3
+		},
+		{
+			"m_DataId": 213,
+			"//": "대형 몬스터 제작",
+			"m_Tab": 2,
+			"m_Text": "#L213Text",
+			"m_MaxCount": 3
+		},
+		{
+			"m_DataId": 301,
+			"//": "콘돔 판매",
+			"m_Tab": 3,
+			"m_Text": "#L301Text",
+			"m_MaxCount": 50
+		},
+		{
+			"m_DataId": 302,
+			"//": "러브젤 판매",
+			"m_Tab": 3,
+			"m_Text": "#L302Text",
+			"m_MaxCount": 50
+		},
+		{
+			"m_DataId": 303,
+			"//": "외형 변형 알약 판매",
+			"m_Tab": 3,
+			"m_Text": "#L303Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 304,
+			"//": "손님 안내",
+			"m_Tab": 3,
+			"m_Text": "#L304Text",
+			"m_MaxCount": 50
+		},
+		{
+			"m_DataId": 305,
+			"//": "창광 평판 1 달성",
+			"m_Tab": 3,
+			"m_Text": "#L305Text",
+			"m_MaxCount": 1
+		},
+		{
+			"m_DataId": 306,
+			"//": "창광 평판 2 달성",
+			"m_Tab": 3,
+			"m_Text": "#L306Text",
+			"m_MaxCount": 1
+		},
+		{
+			"m_DataId": 307,
+			"//": "창광 평판 3 달성",
+			"m_Tab": 3,
+			"m_Text": "#L307Text",
+			"m_MaxCount": 1
+		},
+		{
+			"m_DataId": 308,
+			"//": "창광 평판 4 달성",
+			"m_Tab": 3,
+			"m_Text": "#L308Text",
+			"m_MaxCount": 1
+		},
+		{
+			"m_DataId": 309,
+			"//": "창광 평판 5 달성",
+			"m_Tab": 3,
+			"m_Text": "#L309Text",
+			"m_MaxCount": 1
+		},
+		{
+			"m_DataId": 310,
+			"//": "창광 평판 6 달성",
+			"m_Tab": 3,
+			"m_Text": "#L310Text",
+			"m_MaxCount": 1
+		},
+		{
+			"m_DataId": 311,
+			"//": "창광 평판 7 달성",
+			"m_Tab": 3,
+			"m_Text": "#L311Text",
+			"m_MaxCount": 1
+		},
+		{
+			"m_DataId": 401,
+			"//": "지하 룸 강화",
+			"m_Tab": 4,
+			"m_Text": "#L401Text",
+			"m_MaxCount": 50
+		},
+		{
+			"m_DataId": 402,
+			"//": "지하 룸 재강화",
+			"m_Tab": 4,
+			"m_Text": "#L402Text",
+			"m_MaxCount": 50
+		},
+		{
+			"m_DataId": 403,
+			"//": "지상 룸 강화",
+			"m_Tab": 4,
+			"m_Text": "#L403Text",
+			"m_MaxCount": 50
+		},
+		{
+			"m_DataId": 404,
+			"//": "지상 룸 재강화",
+			"m_Tab": 4,
+			"m_Text": "#L404Text",
+			"m_MaxCount": 50
+		},
+		{
+			"m_DataId": 405,
+			"//": "타락도 캡슐 제작",
+			"m_Tab": 4,
+			"m_Text": "#L405Text",
+			"m_MaxCount": 5
+		},
+		{
+			"m_DataId": 406,
+			"//": "타락도 캡슐로 인간 노예 타락",
+			"m_Tab": 4,
+			"m_Text": "#L406Text",
+			"m_MaxCount": 10
+		},
+		{
+			"m_DataId": 407,
+			"//": "타락도 캡슐로 엘프 노예 타락",
+			"m_Tab": 4,
+			"m_Text": "#L407Text",
+			"m_MaxCount": 10
+		},
+		{
+			"m_DataId": 408,
+			"//": "타락도 캡슐로 드워프 노예 타락",
+			"m_Tab": 4,
+			"m_Text": "#L408Text",
+			"m_MaxCount": 10
+		},
+		{
+			"m_DataId": 409,
+			"//": "타락도 캡슐로 수인 노예 타락",
+			"m_Tab": 4,
+			"m_Text": "#L409Text",
+			"m_MaxCount": 10
+		},
+		{
+			"m_DataId": 410,
+			"//": "타락도 캡슐로 작은 수인 노예 타락",
+			"m_Tab": 4,
+			"m_Text": "#L410Text",
+			"m_MaxCount": 10
+		},
+		{
+			"m_DataId": 411,
+			"//": "타락도 캡슐로 용인 노예 타락",
+			"m_Tab": 4,
+			"m_Text": "#L411Text",
+			"m_MaxCount": 10
+		}
+	]
+}
+
