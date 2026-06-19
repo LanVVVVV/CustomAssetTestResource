@@ -41,7 +41,7 @@ public static class ConfigSystem
     /// </param>
     /// <param name="overwritePredicate">
     /// Delegate to decide overwrite behavior.  
-    /// Receives the target file path, returns true if the file should be overwritten.  
+    /// Receives the target file name, returns true if the file should be overwritten.  
     /// If null, defaults to skipping existing files.
     /// </param>
     public static void ExportEmbeddedFile(string modName, string fileName, Func<string, bool>? overwritePredicate = null)
@@ -103,7 +103,7 @@ public static class ConfigSystem
     /// </param>
     /// <param name="overwritePredicate">
     /// Delegate to decide overwrite behavior.  
-    /// Receives the target file path, returns true if the file should be overwritten.  
+    /// Receives the target file name, returns true if the file should be overwritten.  
     /// If null, defaults to skipping existing files.
     /// </param>
     public static void ExportAllEmbeddedFile(string modName, string? extensionFilter = null, Func<string, bool>? overwritePredicate = null)
