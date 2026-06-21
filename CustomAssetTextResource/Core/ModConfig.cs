@@ -1,7 +1,7 @@
-﻿using CustomAssetTestResource.Properties;
+﻿using CustomAssetTextResource.Properties;
 using MBM.ModLoader.Settings;
 
-namespace CustomAssetTestResource;
+namespace CustomAssetTextResource.Core;
 
 public static class ModConfig
 {
@@ -111,7 +111,6 @@ public static class ModConfig
     {
         ModSettings.SetDescription(ModEntry.ModName, NameExportAllResourcesTextAsset, Strings.Config_ExportAllResourcesTextAsset);
         ModSettings.SetDescription(ModEntry.ModName, NameOutputDiffLog, Strings.Config_OutputDiffLog);
-
     }
 }
 

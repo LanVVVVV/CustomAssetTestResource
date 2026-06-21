@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection;
 using UnityEngine;
 
-namespace CustomAssetTestResource;
+namespace CustomAssetTextResource;
 
 public static class ConfigSystem
 {

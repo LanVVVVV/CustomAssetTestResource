@@ -2,7 +2,7 @@
 using MBMScripts;
 using System;
 
-namespace CustomAssetTestResource.Patches;
+namespace CustomAssetTextResource.Patches;
 
 [HarmonyPatch(typeof(GameManager), "InitializeData")]
 public static class GameManagerPatch

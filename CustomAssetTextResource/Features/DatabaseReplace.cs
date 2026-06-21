@@ -1,4 +1,6 @@
-﻿using HarmonyLib;
+﻿using CustomAssetTextResource.Core;
+using CustomAssetTextResource.Utils;
+using HarmonyLib;
 using MBMScripts;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
@@ -6,7 +8,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace CustomAssetTestResource.Features;
+namespace CustomAssetTextResource.Features;
 
 public static class DatabaseReplace
 {

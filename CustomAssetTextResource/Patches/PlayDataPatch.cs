@@ -1,7 +1,7 @@
 ﻿using HarmonyLib;
 using MBMScripts;
 
-namespace CustomAssetTestResource.Patches;
+namespace CustomAssetTextResource.Patches;
 
 [HarmonyPatch(typeof(PlayData))]
 public static class PlayDataPatch

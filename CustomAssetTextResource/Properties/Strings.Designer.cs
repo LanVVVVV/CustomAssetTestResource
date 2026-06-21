@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CustomAssetTestResource.Properties {
+namespace CustomAssetTextResource.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace CustomAssetTestResource.Properties {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("CustomAssetTestResource.Properties.Strings", typeof(Strings).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("CustomAssetTextResource.Properties.Strings", typeof(Strings).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,7 +61,7 @@ namespace CustomAssetTestResource.Properties {
         }
         
         /// <summary>
-        ///   查找类似 Overwrite and export all TextAssets from resources.assets to the directory Config\CustomAssetTestResource\Export. 的本地化字符串。
+        ///   查找类似 Overwrite and export all TextAssets from resources.assets to the directory Config\CustomAssetTextResource\Export. 的本地化字符串。
         /// </summary>
         public static string Config_ExportAllResourcesTextAsset {
             get {
@@ -70,7 +70,7 @@ namespace CustomAssetTestResource.Properties {
         }
         
         /// <summary>
-        ///   查找类似 On game startup, output diff logs between external JSON data and corresponding TextAsset in resources.assets to Config\CustomAssetTestResource\Log. 的本地化字符串。
+        ///   查找类似 On game startup, output diff logs between external JSON data and corresponding TextAsset in resources.assets to Config\CustomAssetTextResource\Log. 的本地化字符串。
         /// </summary>
         public static string Config_OutputDiffLog {
             get {
